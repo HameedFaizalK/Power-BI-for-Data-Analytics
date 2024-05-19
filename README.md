@@ -7,4 +7,4 @@
 
 ![Capture](https://github.com/HameedFaizalK/Power-BI-for-Data-Analytics/assets/161970914/cba0868c-8cab-4f71-b9c2-0222563f9600)
 
-Feel free to connect with me on LinkedIn-(https://www.linkedin.com/in/hameed-faizal-k-30685a199/)
+Feel free to connect with me on LinkedIn_(https://www.linkedin.com/in/hameed-faizal-k-30685a199/)
