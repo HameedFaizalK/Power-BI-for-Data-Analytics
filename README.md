@@ -17,6 +17,13 @@ Here are some potential future improvements for this Sales Dashboard project:
 - Advanced Analytics:
 - Mobile-Friendly Design:
 ## PROJECT DEMONSTRATION:
+Here are some requirments :
+- Sum of total sale in India
+- Sum of total sale by each states
+- Sum of total amount by each year
+- Total customer counts in each state
+- Total customer counts in each year
+- Finally future predictions
 ![Capture](https://github.com/HameedFaizalK/Power-BI-for-Data-Analytics/assets/161970914/cba0868c-8cab-4f71-b9c2-0222563f9600)
 
 Feel free to connect with me on LinkedIn_(https://www.linkedin.com/in/hameed-faizal-k-30685a199/)
